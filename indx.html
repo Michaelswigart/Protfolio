@@ -3,11 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Michael Swigart's portfolio</title>
     <!--add bootstrap link-->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
    
 </head>
+
+<body>
+
 <header>
   <!-- navbar links-->
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -16,16 +19,16 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarText">
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">         
+         <a class="nav-link" href="contact.html">About<span class="sr-only"></span></a>
+        </li>
         <li class="nav-item active">
-          <a class="nav-link"        
-          href="#">Contact<span class="sr-only"> </span></a>
+          <a class="nav-link" href="portfolio.html">Portfolio</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Portfolio</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+        <li class="nav-item active">
+           <a class="nav-link"        
+          href="index.html">Contact</a>
         </li>
       </ul>
       <span class="navbar-text">
@@ -33,41 +36,50 @@
       </span>
     </div>
   </nav>
-  
+</header>
     
 
-</header>
-<body>
+
+
   
-  <div class="container">
+  <section class="container">
     <!-- Content here -->
-    <div class="card">
-      <div class="card-body">
-       <div class="jumbotron">
-        <h1 class="display-4">About me</h1>
-      </div> 
+ 
+    <div class="row">           
+         <div class = float-start>
+       <!-- add image to container -->
+       <div class="jumbotron jumbotron-fluid"
+        <div class="row ">
+            <div class="col-sm-6">
+                <h1><img src="https://i.pinimg.com/originals/29/1c/99/291c99b6c89a91581c21d8c1158fcb65.jpg" alt="it's a puppie" class="img-thumbnail"></h1>
+            </div>
+              
+            </div>
+            <p class="font-italic">Hello there my name is Michael A Swigart I have always had a fascination with coding, but I never thought I'd really get the chance to code for a living and I'm really excited for it.
+              <br><br>
+              I was born in dodge city kansas in 1993 and we soon movied to greensburge witch is East dodge city, I lived there for 18 years of my life and that's when my famly decided move to kingman Kansas and I have been here cence but I didn't know what to do with my life than one day my sister told me about coding and before I knew it I joined the Ku coding bootcamp.
+
+            </p>
+          
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+
+            </div>
+        </div>
+    </div>
+      
       </div>
     </div>
-         <div class=div class="d-felx-nowrap"
-    <div class="card" style="width: 30rem;">
-      <div class="badge badge-primary text-wrap" style="width: 6rem;">
-     
-      <img class=" puppie" src="https://i.pinimg.com/originals/29/1c/99/291c99b6c89a91581c21d8c1158fcb65.jpg" alt="it's a puppie" >
-      </div>
-      <div class="card-body >
-        <p class="card-text ">I have not shaved in a while. Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur excepturi nisi aspernatur velit qui tempora aperiam similique quia, nihil, dignissimos, ut explicabo fugit adipisci ullam dolor culpa voluptas sequi Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta autem delectus, rerum cupiditate repellendus possimus voluptates ipsum praesentium unde officiis sed laboriosam consequuntur maiores ducimus nostrum accusamus! Atque, rerum magni. </p> 
-              </div>
-            </div>
-         </div>
-        </div>
-      </div>
-   </div>
+          </section>
 
   </div>
-   <!-- add .Js link-->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    <!-- add .Js link-->
+   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
      
-    
+    <footer>
+      <nav class="navbar navbar-dark bg-dark fixed-bottom"><a class="navbar-brand" href="#">footer text  </a></nav>
+    </footer>
 </body>
 </html>
