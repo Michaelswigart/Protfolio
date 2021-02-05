@@ -1,3 +1,13 @@
 body{
     background-image:url(https://www.bing.com/th/id/ABT63C513FA3CA49F11A4D1B68F93EA7A33A5ECDAE95237E161993DD8712FA53682?qlt=90&pid=InlineBlock);
 }
+.hat {
+    width: 50px;
+    height: 50px;
+    position: right;
+    position:top;
+    left: 420px;
+    top: -364px;
+    z-index: 100;
+    flex-wrap: nowrap;
+  }
