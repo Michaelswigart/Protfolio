@@ -1,26 +1,38 @@
-# My bootstrap project
 
-**Version 1.0.0**
-
-     The version of bootstrap is 4.5 because 5.0 wasn't working right.
-
-     The navbar is working as desired and the links work.  I have three images on my portfolio.
- 
-     The footer nav bar is working as disired and the link will take you to my facebook page.
-
-     My bio is done as well and look's good.
+    
+  #  Project Title
+     Protfolio
+    
+  ##  Description
+    Welcome to my protfolio 
+  ## Table of Contents
+  * [Description](#description)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contribution](#contribution)
+  * [Usage](#usage)
+  * [Images](#Images)
+  * [Questions](#questions)
+  ## Installation
+  To install dependencies, run the below command :
+    There are no dependencies
+  ## Usage
+     to look and run the best I can do make it do
+  ## License
+    This repository is covered under the license '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)' 
+    Refer [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) for more detailed info 
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    
+  
+  ## Contribution
+     Michael
+  ## Images
      
-     The contact page is the same and the name, email and message box's are good but they don't send to my email.
-
 ![Michael Swigart's portfolio - Google Chrome 2_5_2021 5_25_48 PM](https://user-images.githubusercontent.com/73671076/107099529-9035b300-67d7-11eb-8c29-e80fe4b54100.png)
 ![Michael Swigart's portfolio - Google Chrome 2_5_2021 5_26_09 PM](https://user-images.githubusercontent.com/73671076/107099532-90ce4980-67d7-11eb-8322-8f7155fd5ec6.png)
 ![Michael Swigart's portfolio - Google Chrome 2_5_2021 5_26_42 PM](https://user-images.githubusercontent.com/73671076/107099534-91ff7680-67d7-11eb-803c-bfcca19886e8.png)
 
-
-https://michaelswigart.github.io/tryme/
-
-https://michaelswigart.github.io/Protfolio/index.html
-
-     ## Contributors 
-
-     - Michael A Swigart  Gmail: Sherlockholmes.swigart92@gmail.com  Facebook: Alex Swigart.
+  ## Questions
+   If you have any questions reach me @ 
+   Email : [sherlockholmes.swigart92@gmail.com](mailto:sherlockholmes.swigart92@gmail.com)
+   Github : [Michaelswigart](https://michaelswigart.github.io/Protfolio/index.html)
