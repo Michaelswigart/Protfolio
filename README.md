@@ -35,4 +35,7 @@
   ## Questions
    If you have any questions reach me @ 
    Email : [sherlockholmes.swigart92@gmail.com](mailto:sherlockholmes.swigart92@gmail.com)
-   Github : [Michaelswigart](https://michaelswigart.github.io/Protfolio/index.html)
+   
+   Github : [Michaelswigart](https://github.com/Michaelswigart)
+   
+   Protfolio : [Michaelswigart](https://michaelswigart.github.io/Protfolio/index.html)
